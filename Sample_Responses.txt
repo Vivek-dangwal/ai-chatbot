@@ -1,0 +1,54 @@
+==============================
+  SAMPLE CHATBOT RESPONSES
+==============================
+
+# Task 1: Memory Management (mem0)
+
+User: Remember that I like studying in the morning.
+Bot: I will remember that: I like studying in the morning.
+
+User: Remember that my favorite subject is Data Science.
+Bot: I will remember that: my favorite subject is Data Science.
+
+User: What do you remember?
+Bot:
+I like studying in the morning.
+my favorite subject is Data Science.
+
+
+==============================
+  Task 2: Calendar Schedule Retrieval (using MCP logic)
+==============================
+
+User: What are my meetings today?
+Bot:
+Team Sync at 10:00 AM
+Project Standup at 4:00 PM
+
+User: What are my meetings this week?
+Bot:
+Team Sync - Monday 10AM
+Client Review - Wednesday 3PM
+Project Planning - Friday 2PM
+
+
+==============================
+  Task 3: Chatbot Functional Testing (Frontend)
+==============================
+
+User: Hello chatbot!
+Bot: I can remember things or show your meetings! Try: 'What are my meetings today?'
+
+User: Remember that I prefer doing assignments at night.
+Bot: I will remember that: I prefer doing assignments at night.
+
+User: What do you remember?
+Bot:
+I like studying in the morning.
+my favorite subject is Data Science.
+I prefer doing assignments at night.
+
+
+==============================
+End of Sample Responses
+==============================
